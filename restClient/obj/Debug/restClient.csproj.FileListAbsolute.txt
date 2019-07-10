@@ -1,0 +1,17 @@
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\bin\Debug\restClient.exe.config
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\bin\Debug\restClient.exe
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\bin\Debug\restClient.pdb
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.csprojAssemblyReference.cache
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.Form1.resources
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.Properties.Resources.resources
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.csproj.GenerateResource.cache
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.csproj.CoreCompileInputs.cache
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.exe
+C:\Users\Lord Nemanja\source\repos\restClient\restClient\obj\Debug\restClient.pdb
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.Form1.resources
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.Properties.Resources.resources
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.csproj.GenerateResource.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.exe
+C:\Users\Nemanja Djordjevic\source\repos\restClient\restClient\obj\Debug\restClient.pdb

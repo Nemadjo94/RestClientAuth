@@ -1,0 +1,17 @@
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csprojAssemblyReference.cache
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\restClient.Form1.resources
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\restClientAuthentication.restClient.Properties.Resources.resources
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csproj.GenerateResource.cache
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Lord Nemanja\source\repos\restClient\bin\Debug\WindowsApplication.exe.config
+C:\Users\Lord Nemanja\source\repos\restClient\bin\Debug\WindowsApplication.exe
+C:\Users\Lord Nemanja\source\repos\restClient\bin\Debug\WindowsApplication.pdb
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Lord Nemanja\source\repos\restClient\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\restClient.Form1.resources
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\restClientAuthentication.restClient.Properties.Resources.resources
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csproj.GenerateResource.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\restClientAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Nemanja Djordjevic\source\repos\restClient\obj\x86\Debug\WindowsApplication.pdb
